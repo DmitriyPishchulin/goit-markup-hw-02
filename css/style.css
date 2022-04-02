@@ -93,6 +93,7 @@ body {
   letter-spacing: 0.06em;
   background-color: var(--accent-color);
   color: var(--white);
+  cursor: pointer;
 }
 
 .hero-btn:hover,
