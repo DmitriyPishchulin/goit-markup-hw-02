@@ -12,7 +12,6 @@
 }
 
 body {
-  width: 1600px;
   font-family: 
     'Roboto', 'Open Sans', 'Fira Sans', sans-serif;
   font-size: 14px;
@@ -97,10 +96,10 @@ body {
   cursor: pointer;
 }
 
-.hero-btn:hover,
+/* .hero-btn:hover,
 .hero-btn:focus {
   background-color: var(--white-background-color);
-  color: var(--accent-color);
+  color: var(--accent-color); */
 }
 
 /* Features section */
@@ -154,7 +153,6 @@ body {
 }
 
 .team-profession {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
   color: var(--secondary-text-color);
@@ -172,7 +170,6 @@ body {
 
 .footer-contact-link {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   color: var(--footer-contacts-color);
